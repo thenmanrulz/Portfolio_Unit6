@@ -4,7 +4,11 @@ $(document).ready(function(){
       $("#like").html("You like this project!");
     });
     
+    // ALL JAVASCRIPT BELOW HERE
+    
+
     
     
-    
+    // ALL JAVASCRIPT ABOVE HERE
+
 });
